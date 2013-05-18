@@ -24,6 +24,8 @@ Later development could implement machine understanding of anything from blog po
 
 
 #### *Let's do this*
-Got concrete ideas? Write. In this git. And feel free to make milestones and structure.
+Do you have ideas already? Got knowledge on similar projects? Write. In this git. And feel free to make milestones and structure.
+What is definitely needed is an API for the database. And to get hosted servers.
+
 
 I can also be contacted at osika@kth.se.
