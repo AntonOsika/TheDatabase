@@ -1,6 +1,4 @@
-TheDatabase
-===========
-#### A Git for brainstorming:
+### A Git for brainstorming:
 
 
 ###### **The Database** - A dumb AI making an encycolpedia-like Database by extracting information from (syntaxed) posts, interpreting them as attributes for objects.
@@ -26,6 +24,6 @@ Later development could implement machine understanding of anything from blog po
 
 
 #### *Let's do this*
-Got concrete ideas? Write. In this git - and feel free to make milestones for structure.
+Got concrete ideas? Write. In this git. And feel free to make milestones and structure.
 
-I can be contacted at osika@kth.se
+I can also be contacted at osika@kth.se.
