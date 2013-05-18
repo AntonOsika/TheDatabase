@@ -1,7 +1,12 @@
 TheDatabase
 ===========
+#### A Git for brainstorming:
 
-A dumb AI making an encycolpedia-like Database by extracting information from (syntaxed) posts, interpreting them as attributes for objects.
+
+###### **The Database** - A dumb AI making an encycolpedia-like Database by extracting information from (syntaxed) posts, interpreting them as attributes for objects.
+
+
+#### *Pitch*
 
 The web has too much information, and doing online research you only get the views of a few people. 
 
@@ -17,3 +22,10 @@ A simple solution is making it for open Evernote Notebooks, where researchers co
 Mapping up all this knowledge and all the connections would have endless possibilities, and it might be beautiful.
 
 Later development could implement machine understanding of anything from blog posts, scientific articles, to say direct input from large online population doing measurements on the effect of different foods on wellbeing.
+
+
+
+#### *Let's do this*
+Got concrete ideas? Write. In this git - and feel free to make milestones for structure.
+
+I can be contacted at osika@kth.se
