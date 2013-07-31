@@ -36,6 +36,6 @@ After this implementation, moving on to sort other information, and developing A
 
 Most important is that it should be very open‚ and possible for everyone to use well sorted information in their AIs or visualisations.
 And add sorted information from new sources across the web or from real life.
-Start with a good API and make future happend.
+Start with a good API and make future happen.
 
 I can also be contacted at osika@kth.se.
