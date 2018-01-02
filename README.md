@@ -1,7 +1,7 @@
-###### **The Database** - A dumb AI making an encycolpedia-like Database by extracting information from (syntaxed?) posts, interpreting them as objects linked together.
+###### **The Database** - A system making an encycolpedia-like Database by extracting information from (syntaxed) posts and notes, interpreting them as objects linked together.
 
 
-#### *Pitch*
+#### *Outline*
 
 The web has too much information, and doing online research you only get the views of a few people. 
 
@@ -21,18 +21,6 @@ Later development could implement machine understanding of anything from blog po
 
 
 #### *Let's do this*
-Do you have ideas already? Got knowledge on similar projects? Write. In this git. Organization is not decided yet.
-
-This can be started in many ways. The following has many small wins for science, and could be picked up quickly:
-An implementation for scientists to more easily move into [Open Science](http://en.wikipedia.org/wiki/Science_2.0"Open Science")
-not having to create blogs and post there all the time, and mining all the information in their notes with their consent.
-Scientists are using evernote so one great bridge is for evernote accounts (that have great APIs)
-to easily share posts they want. Adding useful utilities - like suggesting links to others, based on what you have in your notes
-(both public or private). 
-After this implementation, moving on to sort other information, and developing AIs datamining sorted information.
-
-Most important is that it should be very open‚ and possible for everyone to use well sorted information in their AIs or visualisations.
-And add sorted information from new sources across the web or from real life.
-Start with a good API and make future happen.
+Do you have ideas already? Or knowledge on similar projects? Please comment in this repository.
 
 I can also be contacted at osika@kth.se.
