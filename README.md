@@ -1,4 +1,4 @@
-###### **The Database** - A system making an encycolpedia-like Database by extracting information from (syntaxed) posts and notes, interpreting them as objects linked together.
+###### **The Database** - A framework for making an encycolpedia-like Database by extracting information from (syntaxed) posts and notes, interpreting them as objects linked together.
 
 
 #### *Outline*
