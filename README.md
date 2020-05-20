@@ -20,5 +20,5 @@ Later development could implement machine understanding of anything from blog po
 
 
 
-#### *Call to action*
+#### *Let's do this*
 Do you have ideas already? Or knowledge on similar projects? Please comment in this repository.
